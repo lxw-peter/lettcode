@@ -1,0 +1,14 @@
+{
+  "globals": {
+    "$": false,
+    "window": false,
+    "document":false
+  },
+  "curly": true,
+  "eqeqeq": true,
+  "noarg": true,
+  "undef": true,
+  "unused": true,
+  "esversion": 6,
+  "asi": true
+}
